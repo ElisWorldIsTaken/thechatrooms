@@ -118,7 +118,7 @@ function loginForm(){
    <div class="image_upload">
     <form id="uploadImage" method="post" action="post.php">
      <label for="uploadFile"><img src="upload.png" /></label>
-     <input type="file" name="uploadFile" id="uploadFile" accept=".jpg, .png" />
+     <input type="file" name="uploadFile" id="uploadFile" accept=".mp3, .jpg, .png" />
     </form>
    </div>
   </div>
